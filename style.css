@@ -159,7 +159,7 @@ body{
     color:var(--neutral-5);
     font-size: var(--fs-body-medium);
     line-height: var(--lh-body-medium);
-    height: 300vh;
+    /* height: 300vh; */
 }
 
 ::-webkit-scrollbar{width: 12px;}
